@@ -1,0 +1,2 @@
+# TrashedBot
+project "Trashed"
