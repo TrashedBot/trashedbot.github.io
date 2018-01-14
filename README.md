@@ -1,10 +1,14 @@
 # TrashedBot.github.io
 <!DOCTYPE html>
 <html>
-<body> 
-<p><img src="images/1.png" 
-width="155" height="155"</p>
-</body>
+ <head>
+  <meta charset="utf-8">
+  <title>images</title>
+ </head>
+ <body>
+  <p><img src="images/1.png" alt="LOGO"
+          width="155" height="155"></p>
+ </body>
 </html>
 <html>
 <body>
