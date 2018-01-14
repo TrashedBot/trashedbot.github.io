@@ -36,13 +36,3 @@
 <p><a href="my-project/12.Information/Information.html">Information.</a></p>
 </body>
 </html>
-<html>
- <head>
-  < meta charset="utf-8" >
-  <title>images</title>
- </head>
- <body>
-  <p><img src="images/1.png" alt="LOGO"
-          width="155" height="155"></p>
- </body>
-</html>
