@@ -33,4 +33,4 @@
 <p><a href="my-project/12.Information/Information.html">Information.</a></p>
 </body>
 </html>
-[Click The project MiZGiR!](http://trashedbot.github.io/MiZGiR) 
+[Click The project MiZGiR!](http://trashedbot.github.io/MiZGiR)  in test
