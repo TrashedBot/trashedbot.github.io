@@ -1,4 +1,5 @@
-#Copyright 2018.The project Trashed.
+                                           #Copyright 2018.The project Trashed.
+
 This work is licensed under a Creative Commons Attribution 4.0 International License.https://creativecommons.org/licenses/by/4.0/
 Code samples are licensed under the Apache 2.0 License.  http://www.apache.org/licenses/LICENSE-2.0
 
