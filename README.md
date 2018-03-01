@@ -9,7 +9,7 @@
 </html>
 <html>
 <body>
-<h1>"Trashed"</h1>[Click me.](http://trashedbot.github.io) 
+<h1><a href="http://trashedbot.github.io">"Trashed"</a></h1>
 <p>"Planet Earth, Our Days, People are no longer humans.</p>
 <p>What can happen, IF NOT ARE YOU! What will the children be like?</p>
 <p>Having brought up fathers and mothers. Did you think, Ancestor!?</p>
