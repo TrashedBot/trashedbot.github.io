@@ -1,15 +1,14 @@
+# TrashedBot.github.io
+<!DOCTYPE html>
 <html>
- <head>
-  <meta charset="utf-8">
-   </head>
- <body>
-  <p><img src="images/1.png" alt="LOGO"
-          width="155" height="155"></p>
- </body>
+<body> 
+<p><img src="images/1.png" 
+width="155" height="155"</p>
+</body>
 </html>
 <html>
 <body>
-<h1><a href="http://trashedbot.github.io">"Trashed"</a></h1>
+<h1>"Trashed"</h1>
 <p>"Planet Earth, Our Days, People are no longer humans.</p>
 <p>What can happen, IF NOT ARE YOU! What will the children be like?</p>
 <p>Having brought up fathers and mothers. Did you think, Ancestor!?</p>
@@ -33,11 +32,13 @@
 <p><a href="my-project/12.Information/Information.html">Information.</a></p>
 </body>
 </html>
-[Click The project MiZGiR!](http://trashedbot.github.io/MiZGiR) 
-
-<p>Copyright 2018.The project Trashed.</p>
-<p>Bot in Telegram<a href="https://t.me/@TrashedBot">@TrashedBot</a></p>
-<p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
-<p>Code samples are licensed under the Apache 2.0 License.</p>
-
-<p>Thanks GitHub,Inc.</p>
+<html>
+ <head>
+  < meta charset="utf-8" >
+  <title>images</title>
+ </head>
+ <body>
+  <p><img src="images/1.png" alt="LOGO"
+          width="155" height="155"></p>
+ </body>
+</html>
