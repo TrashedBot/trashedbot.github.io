@@ -33,10 +33,7 @@
 <p><a href="my-project/12.Information/Information.html">Information.</a></p>
 </body>
 </html>
-
 <p><a href="http://trashedbot.github.io/MiZGiR">[Click The project MiZGiR!]</a></p>
-[Click The project MiZGiR!](http://trashedbot.github.io/MiZGiR) 
-
 <p>2018-2020 project Trashed</p>
 <p>Bot in Telegram<a href="https://t.me/TrashedBot">@TrashedBot</a></p>
 <p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
