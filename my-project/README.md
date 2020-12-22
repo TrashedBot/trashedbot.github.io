@@ -33,13 +33,3 @@ width="155" height="155"</p>
 <p class="example">Copyright 2018 - 2020.The project Trashed.<a href="https://trashedbot.github.io/license.html">license</a></p>
 </body>
 </html>
-<html>
- <head>
-  < meta charset="utf-8" >
-  <title>images</title>
- </head>
- <body>
-  <p><img src="images/1.png" alt="LOGO"
-          width="155" height="155"></p>
- </body>
-</html>
