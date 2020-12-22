@@ -38,5 +38,5 @@
 <p>Bot in Telegram<a href="https://t.me/TrashedBot">@TrashedBot</a></p>
 <p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
 <p>Code samples are licensed under the Apache 2.0 License.</p>
-<p>@TrashedBot contributed code to 1 repository in the 2020 GitHub Archive Program<a href="https://archiveprogram.github.com/">Arctic Code Vault Contributor.</a></p>
+<p>@TrashedBot contributed code to 1 repository in the 2020 GitHub Archive Program.<a href="https://archiveprogram.github.com/">Arctic Code Vault Contributor.</a></p>
 <p>Thanks GitHub,Inc.</p>
