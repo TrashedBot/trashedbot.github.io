@@ -34,7 +34,7 @@
 </body>
 </html>
 <p><a href="http://trashedbot.github.io/MiZGiR">[Click The project MiZGiR!]</a></p>
-<p>2018-2020 project Trashed</p>
+<p>2018-2021 project Trashed</p>
 <p>Bot in Telegram<a href="https://t.me/TrashedBot">@TrashedBot</a></p>
 <p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
 <p>Code samples are licensed under the Apache 2.0 License.</p>
