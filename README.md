@@ -3,7 +3,7 @@
   <meta charset="utf-8">
    </head>
  <body>
-  <p><img src="images/1.png" alt="LOGO"
+  <p><img src="images/TRASH.png" alt="LOGO"
           width="155" height="155"></p>
  </body>
 </html>
@@ -34,9 +34,10 @@
 </body>
 </html>
 <p><a href="http://trashedbot.github.io/MiZGiR">[Click The project MiZGiR!]</a></p>
-<p>2018-2021 project Trashed</p>
 <p>Bot in Telegram<a href="https://t.me/TrashedBot">@TrashedBot</a></p>
 <p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
 <p>Code samples are licensed under the Apache 2.0 License.</p>
 <p>@TrashedBot contributed code to 1 repository in the 2020 GitHub Archive Program.<a href="https://archiveprogram.github.com/">Arctic Code Vault Contributor.</a></p>
 <p>Thanks GitHub,Inc.</p>
+<p>2018 project Trashed</p>
+<p><a href="http://trashed.pw">[Click WEB!]</a></p>
