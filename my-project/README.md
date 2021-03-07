@@ -17,7 +17,7 @@
       p {color: #46A12B;}
       type="text/css">
       BODY {background: #17263C;} 
-      A {color: #cc33ff;}
+      A {color: #f0883;}
       .example {
           border: 1px dashed #cc33ff; 
           background: #17263C; 
