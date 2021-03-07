@@ -19,7 +19,7 @@
       BODY {background: #17263C;} 
       A {color: #cc33ff;}
       .example {
-          border: 1px dashed #634f36; 
+          border: 1px dashed #cc33ff; 
           background: #17263C; 
           padding: 7px;
           font-size: 120%;
