@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html>
  <head><meta charset="utf-8"></head>
-  <style>html,body {height: 100%;background: #17263C;}</style>
+  <style>body {background: #17263}</style>
+
 
  <body>
   <p><img src="http://trashedbot.github.io/images/TRASH.png" alt="LOGO"
