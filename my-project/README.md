@@ -17,7 +17,7 @@
       p {color: #46A12B;}
       type="text/css">
       BODY {background: #17263C;} 
-      A {color: #746855;}
+      A {color: #cc33ff;}
       .example {
           border: 1px dashed #634f36; 
           background: #17263C; 
@@ -30,7 +30,7 @@
   </head>
  <body>
   <p><img src="http://trashedbot.github.io/images/TRASH.png" alt="LOGO"
-          width="155" height="155" background="#17263C"></p>
+          width="155" height="155"></p>
  </body>
 </html>
 <html>
