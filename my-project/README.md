@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body> 
-<p><img src="images/1.png" 
+<p><img src="images/TRASH.png" 
 width="155" height="155"</p>
 </body>
 </html>
@@ -30,6 +30,7 @@ width="155" height="155"</p>
 <p><a href="my-project/10.DAICO/DAICO.html">DAICO.</a></p>
 <p><a href="my-project/11.Question/Question.html">Question.</a></p>
 <p><a href="my-project/12.Information/Information.html">Information.</a></p>
-<p class="example">Copyright 2018 - 2021.The project Trashed.<a href="https://trashedbot.github.io/license.html">license</a></p>
+<p class="example">Copyright 2018 The project Trashed.<a href="https://trashedbot.github.io/license.html">license</a></p>
 </body>
 </html>
+<p><a href="http://trashed.pw">[Click WEB!]</a></p>
