@@ -3,7 +3,7 @@
   <meta charset="utf-8">
    </head>
  <body>
-  <p><img src="images/TRASH.png" alt="LOGO"
+  <p><img src="http://trashedbot.github.io/images/TRASH.png" alt="LOGO"
           width="155" height="155"></p>
  </body>
 </html>
