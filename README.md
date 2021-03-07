@@ -4,13 +4,12 @@
    </head>
  <body>
   <p><img src="http://trashedbot.github.io/images/TRASH.png" alt="LOGO"
-          width="155" height="155"></p>
+          width="155" height="155" color= "blacķ"></p>
  </body>
 </html>
 <html>
 <body>
-<h1><a href="http://trashedbot.github.io/my-project">"Trashed Night version"</a></h1>
-<h1><a href="http://trashedbot.github.io">"Trashed Day version"</a></h1>
+<h1><a href="http://trashedbot.github.io/my-project">"Trashed Night version">< href="http://trashedbot.github.io">"Trashed Day version"</a></h1>
 <p>"Planet Earth, Our Days, People are no longer humans.</p>
 <p>What can happen, IF NOT ARE YOU! What will the children be like?</p>
 <p>Having brought up fathers and mothers. Did you think, Ancestor!?</p>
