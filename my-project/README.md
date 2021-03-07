@@ -1,14 +1,18 @@
 # TrashedBot.github.io
 <!DOCTYPE html>
 <html>
-<body> 
-<p><img src="http://trashedbot.github.io/images/TRASH.png" 
-width="155" height="155"</p>
-</body>
+ <head><meta charset="utf-8"></head>
+  <style>html,body {height: 100%;background: #17263C;}</style>
+
+ <body>
+  <p><img src="http://trashedbot.github.io/images/TRASH.png" alt="LOGO"
+          width="155" height="155"></p>
+ </body>
 </html>
 <html>
 <body>
-<h1>"Trashed"</h1>
+<h1><a href="http://trashedbot.github.io/my-project/README.md">"Trashed Night version"</a></h1>
+<h1><a href="http://trashedbot.github.io/README.md">"Trashed Day version"</a></h1>
 <p>"Planet Earth, Our Days, People are no longer humans.</p>
 <p>What can happen, IF NOT ARE YOU! What will the children be like?</p>
 <p>Having brought up fathers and mothers. Did you think, Ancestor!?</p>
@@ -30,7 +34,13 @@ width="155" height="155"</p>
 <p><a href="my-project/10.DAICO/DAICO.html">DAICO.</a></p>
 <p><a href="my-project/11.Question/Question.html">Question.</a></p>
 <p><a href="my-project/12.Information/Information.html">Information.</a></p>
-<p class="example">Copyright 2018 The project Trashed.<a href="https://trashedbot.github.io/license.html">license</a></p>
 </body>
 </html>
+<p><a href="http://trashedbot.github.io/MiZGiR">[Click The project MiZGiR!]</a></p>
+<p>Bot in Telegram<a href="https://t.me/TrashedBot">@TrashedBot</a></p>
+<p>This work is licensed under a Creative Commons Attribution 4.0 International License.</p>
+<p>Code samples are licensed under the Apache 2.0 License.</p>
+<p>@TrashedBot contributed code to 1 repository in the 2020 GitHub Archive Program.<a href="https://archiveprogram.github.com/">Arctic Code Vault Contributor.</a></p>
+<p>Thanks GitHub,Inc.</p>
+<p>2018 project Trashed</p>
 <p><a href="http://trashed.pw">[Click WEB!]</a></p>
