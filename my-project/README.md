@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body> 
-<p><img src="images/TRASH.png" 
+<p><img src="http://trashedbot.github.io/images/TRASH.png" 
 width="155" height="155"</p>
 </body>
 </html>
