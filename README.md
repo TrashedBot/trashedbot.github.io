@@ -10,7 +10,7 @@
 <html>
 <body>
 <h3><a href="http://trashedbot.github.io/my-project">"Trashed Night version"></a></h3>
-<h3><a< href="http://trashedbot.github.io">"Trashed Day version"</a></h3>
+<h3><a href="http://trashedbot.github.io">"Trashed Day version"</a></h3>
 <p>"Planet Earth, Our Days, People are no longer humans.</p>
 <p>What can happen, IF NOT ARE YOU! What will the children be like?</p>
 <p>Having brought up fathers and mothers. Did you think, Ancestor!?</p>
