@@ -1,7 +1,34 @@
 # TrashedBot.github.io
-<!DOCTYPE html>
 <html>
- <head><meta charset="utf-8"></head>
+ <head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <style>
+      html, body {
+        height: 100%;
+        background: #17263C;
+        margin: 0;
+        padding: 0;
+      }
+      .letter {
+        color: #f0883; 
+        font-size: 120%; 
+      } 
+      p {color: #46A12B;}
+      type="text/css">
+      BODY {background: #17263C;} 
+      A {color: #746855;}
+      .example {
+          border: 1px dashed #634f36; 
+          background: #17263C; 
+          padding: 7px;
+          font-size: 120%;
+          margin: 0 0 1em; 
+          white-space: normal; 
+       }
+    </style>
+  </head>
  <body>
   <p><img src="http://trashedbot.github.io/images/TRASH.png" alt="LOGO"
           width="155" height="155"></p>
